@@ -1,5 +1,10 @@
 # Flipkart-Sales-Analysis
-Tools: Excel.  Cleaned and structured sales dataset for analysis.  Designed interactive dashboard to track sales trends and performance metrics.
+
+Introduction:
+This project focuses on analyzing Flipkart’s sales data to understand performance trends and customer buying behavior. The dataset is cleaned and examined to identify key insights such as top-selling products, revenue contribution by categories, and seasonal sales patterns. Based on these findings, useful visualizations and metrics are generated to help improve business decisions, optimize inventory, and increase future sales growth.
+
+Tools: 
+Excel - Cleaned and structured sales dataset for analysis.  Designed interactive dashboard to track sales trends and performance metrics.
 Project Objective
 To analyze the dataset and identify useful patterns, trends, and insights that support better business decisions.
 
