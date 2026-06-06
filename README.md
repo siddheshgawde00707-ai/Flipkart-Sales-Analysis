@@ -1,5 +1,7 @@
 # Flipkart-Sales-Analysis
 
+<img width="1581" height="686" alt="Screenshot 2025-11-03 150243" src="https://github.com/user-attachments/assets/17c48281-2457-4d15-876f-7956dddc32d2" />
+
 Introduction:
 This project focuses on analyzing Flipkart’s sales data to understand performance trends and customer buying behavior. The dataset is cleaned and examined to identify key insights such as top-selling products, revenue contribution by categories, and seasonal sales patterns. Based on these findings, useful visualizations and metrics are generated to help improve business decisions, optimize inventory, and increase future sales growth.
 
@@ -35,4 +37,4 @@ Used charts, graphs, and pivot dashboards to clearly present results and make in
 Business Recommendations:
 Suggested optimization strategies such as focusing on high-demand items, improving marketing during low-sales periods, and discount planning.
 
-<img width="1581" height="686" alt="Screenshot 2025-11-03 150243" src="https://github.com/user-attachments/assets/17c48281-2457-4d15-876f-7956dddc32d2" />
+
